@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://kgn-engineering-website.vercel.app/sitemap.xml
